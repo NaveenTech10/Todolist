@@ -1,7 +1,8 @@
 # To-Do-List
 - Simple to-do list application that add the task and displays it in a list.
-- The task can be marked as completed and it has edit and delete options.
-- It has three filter options All,Completed,Incomplete.It displays in a list accordingly.
+- here,two buttons are there todo,completed.
+-if we click the delete icon the data is deleted.
+-if we click the tick mark the datas are stored in completed.
 
 ## Table of Contents
 - [Prerequisites](#prerequisites)
