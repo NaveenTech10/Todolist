@@ -33,6 +33,9 @@ npm start
 -if we click add button .Datas are stored in Todo.
 -if we click the delete button it can delete permanently from ui and local storage .
 -if we click the tick mark the task is stored in completed and remove in todo.
+-![Screenshot]https://github.com/NaveenTech10/Todolist/blob/main/list/Screenshot%20from%202024-01-03%2012-18-45.png?raw=true
+-![ScreenShot]https://github.com/NaveenTech10/Todolist/blob/main/list/Screenshot%20from%202024-01-03%2012-19-33.png?raw=true
+-![ScreenShot]https://github.com/NaveenTech10/Todolist/blob/main/list/Screenshot%20from%202024-01-03%2012-20-23.png?raw=true
 
 ## Contributing
 If you would like to contribute to the project, follow these steps:
